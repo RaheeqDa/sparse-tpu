@@ -1,0 +1,20 @@
+# ModelSim/Questa artifacts
+work/
+transcript
+vsim.wlf
+*.wlf
+*.mpf
+*.ini
+
+# Simulation outputs
+sim/
+*.vcd
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
